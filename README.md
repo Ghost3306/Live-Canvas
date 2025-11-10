@@ -34,11 +34,11 @@ Step 2 : Download and Setup MongoDB
 
 Step 3 : 
 	1st CMD : 
-		pip install -r requirements.txt
-		python server.py
+		-pip install -r requirements.txt
+		-python server.py
 	2nd CMD :
-		npm install i
-		npm run dev
+		-npm install i
+		-npm run dev
 
 
 
