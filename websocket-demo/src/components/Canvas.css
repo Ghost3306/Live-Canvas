@@ -1,0 +1,20 @@
+
+
+.canvas-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  cursor: url("/pen.png") 0 24, auto;
+}
+
+/* Show pen icon when hovering over canvas */
+.canvas-wrapper canvas:hover {
+  cursor: url("/pen.png") 0 24, auto;
+}
+
+
+/* Optional: Always show the pen cursor (not just hover) */
+/* .canvas-wrapper canvas {
+  cursor: url("/pen.png") 0 24, auto;
+} */

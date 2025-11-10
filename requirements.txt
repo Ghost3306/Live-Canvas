@@ -1,0 +1,12 @@
+# ===== Flask Web Framework =====
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# ===== Async WebSocket Server =====
+websockets==12.0
+
+# ===== MongoDB Driver =====
+pymongo==4.8.0
+
+# ===== Utility Libraries =====
+dnspython==2.6.1   # Required by pymongo for DNS SRV URLs
